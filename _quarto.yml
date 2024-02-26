@@ -11,6 +11,7 @@ website:
   title: "Economia do Setor Público"
   sidebar:
     background: "#FF6961"
+    foreground: "#ffffff"
     # logo: "images/logo.png"
     pinned: true
     align: center
