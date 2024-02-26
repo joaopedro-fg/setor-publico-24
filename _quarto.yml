@@ -8,17 +8,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Economia do Setor Público"
+  title: "<b>Economia do Setor Público</b>"
   sidebar:
     background: "#FF6961"
-    foreground: "#ffffff"
+    foreground: light
+    search: False
     # logo: "images/logo.png"
     pinned: true
     align: center
-    tools:
-      - icon: github
-        href: https://github.com/joaopedro-fg/setor-publico-24
-        text: GitHub
     style: docked
     contents:
       - href: index.qmd
