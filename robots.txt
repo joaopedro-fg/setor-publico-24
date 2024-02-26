@@ -1,1 +1,1 @@
-Sitemap: https://github.com/Pakillo/quarto-course-website-template/sitemap.xml
+Sitemap: https://joaopedro-fg.github.io/setor-publico-24/sitemap.xml
