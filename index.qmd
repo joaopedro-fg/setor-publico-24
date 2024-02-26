@@ -1,5 +1,5 @@
 ---
-title: "Course Title"
+title: "Economia do Setor Público"
 ---
 
 Course info & details here

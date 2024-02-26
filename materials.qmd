@@ -2,7 +2,7 @@
 title: "Course Materials"
 ---
 
-[Datasets](data/)
+[Datasets](datasets/)
 
-[Slides](slides/)
+[Slides](slides.html)
 

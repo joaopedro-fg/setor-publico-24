@@ -1,9 +1,14 @@
 project:
+  render: 
+      - index.qmd
+      - materials.qmd
+      - schedule.qmd
+      - slides.qmd
   type: website
   output-dir: docs
 
 website:
-  title: "Course Title"
+  title: "Economia do Setor Público"
   sidebar:
     background: primary
     # logo: "images/logo.png"
@@ -11,22 +16,22 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/Pakillo/quarto-course-website-template
+        href: https://github.com/joaopedro-fg/setor-publico-24
         text: GitHub
     style: docked
     contents:
       - href: index.qmd
         text: Home
       - href: schedule.qmd
-        text: Schedule
+        text: Cronograma
       - href: materials.qmd
-        text: Materials
-      - href: https://github.com/Pakillo/quarto-course-website-template/discussions
-        text: Forum
+        text: Materiais
+      - href: mailto:joaopedrofg@usp.br
+        text: Contato
 
 format:
   html:
-    theme: cosmo
+    theme: Journal
     # css: styles.css
     toc: true
 
