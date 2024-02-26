@@ -10,7 +10,7 @@ project:
 website:
   title: "Economia do Setor Público"
   sidebar:
-    background: primary
+    background: "#FF6961"
     # logo: "images/logo.png"
     pinned: true
     align: center
