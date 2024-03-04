@@ -11,7 +11,7 @@
     "href": "materials.html",
     "title": "Course Materials",
     "section": "",
-    "text": "Datasets\nSlides",
+    "text": "Artigos para os Seminários",
     "crumbs": [
       "Materiais"
     ]
@@ -21,7 +21,7 @@
     "href": "index.html",
     "title": "Economia do Setor Público",
     "section": "",
-    "text": "Course info & details here",
+    "text": "Este é o site da monitoria da disciplina EAE1234-Economia do Setor Público, ministrada no primeiro semestre de 2024, pela profª Fabiana Fontes Rocha.\nO curso tem como objetivo entender como o governo toma decisões e avaliar quais decisões ele deveria tomar.\nContato do Monitor: joaopedrofg@usp.br\n\n\nBibliografia\n\nGiambiagi, F.; Além, A.C. 1999. Finanças públicas: teoria e prática no Brasil, Editora Campus.\nGruber, J. 2016. Public finance and public policy, Worth Publishers, Second Edition.\nRosen, H. 2014. Public finance, Irwin, Fourth Edition.\nStiglitz, J.E. 2000. Economics of the public sector, W.W. Norton & Company, New York/London, Third Edition.",
     "crumbs": [
       "Home"
     ]
@@ -31,7 +31,7 @@
     "href": "schedule.html",
     "title": "Cronograma",
     "section": "",
-    "text": "Example schedule:\n\n\n\n\n\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nL\nIntro + Data manipulation\ngit / GitHub\n\n\nM\nGeneralised Linear Models\nData visualisation\n\n\nX\nMixed models / GAM / Bayes\nFunctional programming + Students work\n\n\nJ\nMultivariate analyses\nReproducible workflows\n\n\nV\nUsing R as GIS + Students work\nProject presentations",
+    "text": "Tópico\nRelação com Micro III\n\n\n\n\n1\nIndicadores fiscais\n\n\n\n2\nOrçamento no Brasil\n\n\n\n3\nRegras e instituições fiscais\n\n\n\n4\nExternalidades\nProblemas de alocação criados pelas externalidades e soluções\n\n\n5\nBens públicos\nProblemas de alocação criados pelos bens públicos e soluções\n\n\n6\nFalhas de governo\n\n\n\n7\nMúltiplas jurisdições: Federalismo e Competição Fiscal\n\n\n\n8\nAnálise custo-benefício : como medir os custos e benefícios dos bens públicos\n\n\n\n9\nIncidência da taxação\n\n\n\n10\nEficiência da taxação\n\n\n\n11\nTaxação ótima\n\n\n\n12\nTaxação da renda pessoal e seu efeito sobre as decisões econômicas: oferta de trabalho, poupança e escolha de portfolio\n\n\n\n13\nTaxação sobre a riqueza\n\n\n\n14\nImpostos corporativos\n\n\n\n15\nEvasão fiscal",
     "crumbs": [
       "Cronograma"
     ]
