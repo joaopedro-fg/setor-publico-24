@@ -2,14 +2,20 @@
 title: "Cronograma"
 ---
 
-Example schedule:
-
-|     |                Morning              |          Afternoon                     |
+|     |                Tópico              |          Relação com Micro III                |
 |:---:|:-----------------------------------:|:--------------------------------------:|
-|  L  | Intro + Data manipulation           | git / GitHub                           |
-|  M  | Generalised Linear Models           | Data visualisation                     |
-|  X  | Mixed models / GAM / Bayes          | Functional programming + Students work |
-|  J  | Multivariate analyses               | Reproducible workflows                 |
-|  V  | Using R as GIS + Students work      | Project presentations                  |
-
-
+|  1  | Indicadores fiscais         |                          |
+|  2  | Orçamento no Brasil          |                      |
+|  3  | Regras e instituições fiscais         |                            |
+|  4  | Externalidades               | Problemas de alocação criados pelas externalidades e soluções                  |
+|  5  | Bens públicos    | Problemas de alocação criados pelos bens públicos e soluções   |
+|  6  | Falhas de governo    |                   |
+|  7  | Múltiplas jurisdições: Federalismo e Competição Fiscal    |                   |
+|  8  | Análise custo-benefício : como medir os custos e benefícios dos bens públicos    |                   |
+|  9  | Incidência da taxação    |                   |
+|  10  | Eficiência da taxação     |                   |
+|  11  | Taxação ótima     |                   |
+|  12  | Taxação da renda pessoal e seu efeito sobre as decisões econômicas: oferta de trabalho, poupança e escolha de portfolio     |                   |
+|  13  | Taxação sobre a riqueza    |                   |
+|  14  | Impostos corporativos    |                   |
+|  15  | Evasão fiscal    |                   |

@@ -24,8 +24,6 @@ website:
         text: Cronograma
       - href: materials.qmd
         text: Materiais
-      - href: mailto:joaopedrofg@usp.br
-        text: Contato
 
 format:
   html:

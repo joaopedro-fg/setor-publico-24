@@ -1,5 +1,14 @@
 ---
 title: "Economia do Setor Público"
 ---
+\
+Este é o site da monitoria da disciplina EAE1234-Economia do Setor Público, ministrada no primeiro semestre de 2024, pela profª Fabiana Fontes Rocha.\
+O curso tem como objetivo entender como o governo toma decisões e avaliar quais decisões ele deveria tomar.\
+**Contato do Monitor**: [joaopedrofg@usp.br](mailto:joaopedrofg@usp.br)\
 
-Course info & details here
+### Bibliografia
+
+* Giambiagi, F.; Além, A.C. 1999. Finanças públicas: teoria e prática no Brasil, Editora Campus.
+* Gruber, J. 2016. Public finance and public policy, Worth Publishers, Second Edition.
+* Rosen, H. 2014. Public finance, Irwin, Fourth Edition.
+* Stiglitz, J.E. 2000. Economics of the public sector, W.W. Norton & Company, New York/London, Third Edition.
