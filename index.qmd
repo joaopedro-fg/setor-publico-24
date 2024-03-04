@@ -1,5 +1,5 @@
 ---
-title: "Economia do Setor Público"
+title: "EAE1234 - Economia do Setor Público"
 ---
 \
 Este é o site da monitoria da disciplina EAE1234-Economia do Setor Público, ministrada no primeiro semestre de 2024, pela profª Fabiana Fontes Rocha.\
